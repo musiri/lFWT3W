@@ -1,3 +1,0 @@
-[main]
-connection=stratum://0x274d4c315dd3bcb591c63a285c252b11ca7869a2.worker@eth-eu1.nanopool.org:9999
-etc=false
